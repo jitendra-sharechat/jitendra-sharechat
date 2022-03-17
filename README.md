@@ -3,20 +3,6 @@
     Hey, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">I'm Jitendra! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h2>
 </div>
-<hr>
-<a href="mailto:jitendrakumar@sharechat.co">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jitendra-sharechat&column=7&theme=onedark"/>
-    </p>
-</a>
-<!-- My GitHub stats with buefy theme ❤️ -->
-<a align="center" href="mailto:jitendrakumar@sharechat.co">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jitendra-sharechat&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra-sharechat&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
-</a>
-
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
